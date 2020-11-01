@@ -1,7 +1,7 @@
 const CustomError = require("../extensions/custom-error");
 
 module.exports = function transform(arr) {
-  throw new CustomError('Not implemented');
+  // throw new CustomError('Not implemented');
   // if 
   if (Array.isArray(arr)) {
     if (arr.includes('--discard-next')){
