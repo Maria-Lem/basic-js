@@ -17,15 +17,15 @@ const chainMaker = {
     // remove line with error and write your code here
   },
   removeLink(position) {
-    throw new CustomError('Not implemented');
+    // throw new CustomError('Not implemented');
     // remove line with error and write your code here
   },
   reverseChain() {
-    throw new CustomError('Not implemented');
+    // throw new CustomError('Not implemented');
     // remove line with error and write your code here
   },
   finishChain() {
-    throw new CustomError('Not implemented');
+    // throw new CustomError('Not implemented');
     // remove line with error and write your code here
   }
 };
